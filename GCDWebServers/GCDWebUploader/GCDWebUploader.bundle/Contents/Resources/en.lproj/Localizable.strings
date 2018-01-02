@@ -1,0 +1,3 @@
+"PROLOGUE" = "<p>拖拽文件到此窗口或者点击上传文件按钮来上传文件.</p>";
+"EPILOGUE" = "";
+"FOOTER_FORMAT" = "%@ %@";
